@@ -1,0 +1,5 @@
+.notice {
+  color: #2563eb;
+  /* Override the popover default: design asked for 10px on this one */
+  border-radius: 10px;
+}
